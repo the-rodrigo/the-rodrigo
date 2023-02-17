@@ -7,10 +7,10 @@
 
 <div>
   <a href="https://github.com/the-rodrigo">
-    <img height=200px width=45% src="https://github-readme-stats.vercel.app/api?username=the-rodrigo&show_icons=true&theme=tokyonight"/>
+    <img height=200px src="https://github-readme-stats.vercel.app/api?username=the-rodrigo&show_icons=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/the-rodrigo">
-    <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-rodrigo&theme=tokyonight"/>
+    <img height=200px width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-rodrigo&theme=tokyonight"/>
   </a>
 </div>
 
